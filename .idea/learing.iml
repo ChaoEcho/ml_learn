@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week1/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week10/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week2/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week3/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week4/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week5/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week6/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week7/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week8/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/artificial_intelligence/week9/.ipynb_checkpoints" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
